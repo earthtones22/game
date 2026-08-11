@@ -1,0 +1,12 @@
+{
+  "name": "Map build",
+  "short_name": "Map build",
+  "id": "com.mapnjk",
+  "description": "Map just for one level",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
